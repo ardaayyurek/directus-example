@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/armgitaar/directus.git"
+    "url": "git+https://github.com/ayyurek/directus-example.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/armgitaar/directus/issues"
+    "url": "https://github.com/ayyurek/directus-example/issues"
   },
-  "homepage": "https://github.com/armgitaar/directus#readme",
+  "homepage": "https://github.com/ayyurek/directus-example#readme",
   "type": "module",
   "dependencies": {
     "directus": "10.13.0"
