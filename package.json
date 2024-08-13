@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayyurek/directus-example.git"
+    "url": "git+https://github.com/ardaayyurek/directus-example.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ayyurek/directus-example/issues"
+    "url": "https://github.com/ardaayyurek/directus-example/issues"
   },
-  "homepage": "https://github.com/ayyurek/directus-example#readme",
+  "homepage": "https://github.com/ardaayyurek/directus-example#readme",
   "type": "module",
   "dependencies": {
     "directus": "11.0.1"
