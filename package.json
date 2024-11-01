@@ -21,6 +21,6 @@
   "homepage": "https://github.com/ardaayyurek/directus-example#readme",
   "type": "module",
   "dependencies": {
-    "directus": "10.12.1"
+    "directus": "11.1.1"
   }
 }
